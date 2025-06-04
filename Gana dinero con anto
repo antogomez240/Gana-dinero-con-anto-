@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gana dinero con Anto sin Estafas</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #f1f1f1;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 40px;
+      color: #ffffff;
+    }
+
+    .link {
+      display: inline-block;
+      background-color: #1f1f1f;
+      color: #ffffff;
+      padding: 15px 30px;
+      margin: 20px auto;
+      border-radius: 12px;
+      text-decoration: none;
+      font-size: 18px;
+      box-shadow: 0 4px 12px rgba(255, 255, 255, 0.05);
+      transition: background-color 0.3s ease;
+    }
+
+    .link:hover {
+      background-color: #333333;
+    }
+
+    .footer {
+      margin-top: 60px;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>No pierdas tiempo y gana dinero ya</h1>
+
+  <a class="link" href="https://t.me/Antogomez12" target="_blank">Entrar al canal de Telegram</a>
+
+  <div class="footer">
+    Gana dinero con Anto sin Estafas © 2025
+  </div>
+</body>
+</html>
